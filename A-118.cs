@@ -13,7 +13,6 @@ namespace codeforces
             HashSet<char> vowels = new HashSet<char>();
             for (int i = 0; i < s.Length; i++)
             {
-                if (s[i])
             }
 
         }
